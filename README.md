@@ -1,7 +1,5 @@
 # Perl
 
-<p align="center"><img src="https://media.giphy.com/media/ZGdROK4Q4b1W4/giphy.gif" alt="Perl logo" width="300"></p>
-
 This is a collection of Perl scripts released under the GPL license. The scripts are intended to be useful for various tasks in system administration, data analysis, text processing, and other fields.
 
 ## Installation
@@ -33,5 +31,3 @@ This will run all tests in the `t/` directory recursively.
 ## License
 
 These Perl scripts are released under the GPL license. See the [LICENSE](./LICENSE) file for details.
-
-<p align="center"><img src="https://media.giphy.com/media/l3q2XhfQ8sQNGa1dG/giphy.gif" alt="Perl is awesome" width="300"></p>
