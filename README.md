@@ -6,7 +6,9 @@ This is a collection of Perl scripts released under the GPL license. The scripts
 
 To use these scripts, you need to have Perl 5 installed on your system. You can check your Perl version by running:
 
-```perl -v```
+```
+perl -v
+```
 
 If you don't have Perl 5 installed, you can download it from [https://www.perl.org/get.html](https://www.perl.org/get.html) or use your operating system's package manager to install it.
 
@@ -14,7 +16,9 @@ If you don't have Perl 5 installed, you can download it from [https://www.perl.o
 
 Each script in this repository is a standalone Perl program that can be run from the command line. To run a script, simply navigate to its directory and type:
 
-```perl scriptname.pl```
+```
+perl scriptname.pl
+```
 
 You can also pass command line arguments to the script, depending on its functionality. Refer to the script's documentation or source code to learn more about its usage.
 
@@ -24,7 +28,9 @@ If you would like to contribute to this repository, please fork it on GitHub and
 
 Before submitting a pull request, please make sure your code follows the Perl coding style guidelines and passes all tests. To run the tests, navigate to the repository directory and run:
 
-```prove -r t/```
+```
+prove -r t/
+```
 
 This will run all tests in the `t/` directory recursively.
 
